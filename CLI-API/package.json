@@ -1,0 +1,16 @@
+{
+  "name": "cliapiapp",
+  "version": "1.0.0",
+  "description": "command line application for api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "author": "Victoria <oluavicmail@gmail.com>",
+  "license": "ISC",
+  "preferGlobal": true,
+  "bin": {
+  "mycliapp": "./bin/mycliapp.js"
+}
+
+}
